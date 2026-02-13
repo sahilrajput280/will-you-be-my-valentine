@@ -1,0 +1,5 @@
+# Vercel configuration for static site deployment
+# See https://vercel.com/docs/project-configuration for details
+
+# This file tells Vercel to treat the project as a static site
+output: static
